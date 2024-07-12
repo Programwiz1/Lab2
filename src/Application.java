@@ -21,7 +21,7 @@ public class Application {
         facility1.changeNumClients(55);
         facility1.changeNumPets(110);
         emergency1.changeEmergencyNum(999);
-        emergency1.changeEmergencyEmail("MonilPatel23@gmail.com");
+        emergency1.changeEmergencyEmail("PeterParker25@gmail.com");
 
         // Example of accessing data
         System.out.println("Pet: " + pet1.getName() + ", Color: " + pet1.getPetcolor());
